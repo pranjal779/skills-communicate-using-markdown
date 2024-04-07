@@ -9,3 +9,6 @@ Step h1 and h2 making headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [X] Create a list in the github page
+- [X] add a commit
